@@ -5,9 +5,9 @@
 ## 🖥️ What Does this program do? 
 
 1. The program has 3 different arrays.
-2. Each array talks about something speacial. 
+2. Each array talks about something special. 
 3. Each array has 3 different massages.
-4. Each time the user run the program he will get three different massages from the program. <br />
+4. Each time the user run the program he will get three different massages from the program.
 
 
 ## 📝 How to use the program?
